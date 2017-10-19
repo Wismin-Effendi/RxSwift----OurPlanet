@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		373D0B561F992C4100254D63 /* DownloadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 373D0B551F992C4000254D63 /* DownloadView.swift */; };
 		3D46E6281E258DFC0090C97B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D46E6271E258DFC0090C97B /* AppDelegate.swift */; };
 		3D46E62A1E258DFC0090C97B /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D46E6291E258DFC0090C97B /* CategoriesViewController.swift */; };
 		3D46E62D1E258DFC0090C97B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D46E62B1E258DFC0090C97B /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		1EF74F7158FA18FD08C3F92F /* Pods_OurPlanet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OurPlanet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		243DB62E1F7FC4F2BB6744FC /* Pods-OurPlanet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OurPlanet.release.xcconfig"; path = "Pods/Target Support Files/Pods-OurPlanet/Pods-OurPlanet.release.xcconfig"; sourceTree = "<group>"; };
+		373D0B551F992C4000254D63 /* DownloadView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadView.swift; sourceTree = "<group>"; };
 		3D46E6241E258DFC0090C97B /* OurPlanet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OurPlanet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D46E6271E258DFC0090C97B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D46E6291E258DFC0090C97B /* CategoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				D8D4B1AF36E540D16E9AC066 /* EventsViewController.swift */,
 				D8D4B590E2532FBB4E15A320 /* EventCell.swift */,
 				D8D4B8DAB960CC6D73230C61 /* Model */,
+				373D0B551F992C4000254D63 /* DownloadView.swift */,
 			);
 			path = OurPlanet;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				3D46E6281E258DFC0090C97B /* AppDelegate.swift in Sources */,
 				D8D4B93D3B0419880A462D8C /* EventsViewController.swift in Sources */,
 				D8D4B3B53FB9DBEFD316986D /* EventCell.swift in Sources */,
+				373D0B561F992C4100254D63 /* DownloadView.swift in Sources */,
 				D8D4B8E35C10E832C1CFE0B0 /* EOCategory.swift in Sources */,
 				D8D4BF1B403B74C10D576473 /* EOError.swift in Sources */,
 				D8D4BE89A62A1F0415C0DF42 /* EOEvent.swift in Sources */,
